@@ -11,7 +11,7 @@ https://buildingai.elementsofai.com/
 - Why AI matters
 - Optimization
 - Hill climbing
-- 
+
 ## Chapter 2 - Deailing With Uncertainty
 - Probaility fundamentals
 - The Bayes Rule
